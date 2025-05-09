@@ -1,0 +1,4 @@
+PAT_NAME = "YOUR_PAT_NAME"
+PAT_SECRET = "YOUR_PAT_SECRET"
+SERVER_ADDRESS = "https://10ax.online.tableau.com/"
+SITE_ID = "YOUR_SITE"
