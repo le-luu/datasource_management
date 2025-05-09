@@ -1,0 +1,4 @@
+tableauserverclient
+pandas
+requests
+json
