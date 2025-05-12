@@ -8,6 +8,9 @@ The goal of this project is to retrieve the metadata from the published data sou
 The metadata includes the name of fields, formulas, data type, default aggregation. 
 The metadata would be helpful for users to write the query in VizQL to retrieve data, create calculation from the published data source.
 
+### Youtube Video
+[![Published Datasource Management](https://img.youtube.com/vi/4NPIbE-DMJ0/0.jpg)](https://www.youtube.com/watch?v=4NPIbE-DMJ0)
+
 ### APIs
 - Tableau Metadata API: https://help.tableau.com/current/api/metadata_api/en-us/reference
 - VizQL Data Service: https://help.tableau.com/current/api/vizql-data-service/en-us/reference/index.html
